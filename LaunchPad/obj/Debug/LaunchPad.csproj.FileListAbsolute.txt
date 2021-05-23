@@ -1,0 +1,14 @@
+E:\code\LaunchPad\LaunchPad\bin\Debug\LaunchPad.exe.config
+E:\code\LaunchPad\LaunchPad\bin\Debug\LaunchPad.exe
+E:\code\LaunchPad\LaunchPad\bin\Debug\LaunchPad.pdb
+E:\code\LaunchPad\LaunchPad\obj\Debug\LaunchPad.MainForm.resources
+E:\code\LaunchPad\LaunchPad\obj\Debug\LaunchPad.Properties.Resources.resources
+E:\code\LaunchPad\LaunchPad\obj\Debug\LaunchPad.csproj.GenerateResource.cache
+E:\code\LaunchPad\LaunchPad\obj\Debug\LaunchPad.csproj.CoreCompileInputs.cache
+E:\code\LaunchPad\LaunchPad\obj\Debug\LaunchPad.exe
+E:\code\LaunchPad\LaunchPad\obj\Debug\LaunchPad.pdb
+E:\code\LaunchPad\LaunchPad\obj\Debug\LaunchPad.ShowForm.resources
+E:\code\LaunchPad\LaunchPad\obj\Debug\Interop.IWshRuntimeLibrary.dll
+E:\code\LaunchPad\LaunchPad\obj\Debug\LaunchPad.csproj.ResolveComReference.cache
+E:\code\LaunchPad\LaunchPad\obj\Debug\LaunchPad.SortForm.resources
+E:\code\LaunchPad\LaunchPad\obj\Debug\LaunchPad.csprojAssemblyReference.cache
